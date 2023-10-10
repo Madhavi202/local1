@@ -4,6 +4,7 @@ class sample
 	{
 		system.out.println("Hello sample java");
 	system.out.println("HEllo statement 1");
+        system.out.println("HEllo statement 2");
 
 
 
