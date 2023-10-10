@@ -12,5 +12,13 @@ class Addition
 		subtraction=a-b;
 		system.out.println("The subtraction result is "+subtraction);
        system.out.println("This is commit 1");
+        system.out.println("This is commit 2");
+	 system.out.println("This is commit 3");
+	  system.out.println("This is commit 4");
+	   system.out.println("This is commit 5");
+
+
+
+
 	}
 }
