@@ -8,6 +8,7 @@ class sample
 	 system.out.println("HEllo statement 3");
 	 system.out.println("HEllo statement 4");
 	 system.out.println("HEllo statement 5");
+	 sysytem.out.println("HEllo Statement 6");
 
 
 
